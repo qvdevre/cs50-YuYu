@@ -1,0 +1,8 @@
+*.o
+*.dSYM
+core
+*~
+*.out
+settest
+counterstest
+hashtabletest
